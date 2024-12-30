@@ -1,0 +1,12 @@
+.invertido,
+.fancy{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif ;
+}  
+.invertido{
+    background-color: black;
+    color: #ffffff;
+} 
+.fancy{
+    background-color: yellow;
+} 
